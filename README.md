@@ -2,7 +2,8 @@
 
 A MagicMirror² module that displays the current value of the Nouns Treasury, including ETH and various ERC20 token balances.
 
-![preview](preview.png)
+![previewIDR](previewIDR.png)
+![previewUSD](previewUSD.png)
 
 ## Features
 
