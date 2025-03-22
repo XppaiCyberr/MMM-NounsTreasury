@@ -30,7 +30,7 @@ cd ~/MagicMirror/modules
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MMM-NounsTreasury.git
+git clone https://github.com/XppaiCyberr/MMM-NounsTreasury.git
 ```
 
 3. Install the required dependencies:
